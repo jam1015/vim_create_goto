@@ -12,5 +12,5 @@ nmap <leader>cf Plug>(CreateGoTo)
 or in Neovim
 
 ```lua
-vim.keymap.set('n', '<leader>cf', '<Plug>(CreateGoTo)', { remap = true })
+vim.keymap.set('n', '<leader>cf', '<Plug>(CreateGoTo)', { remap = hrue })
 ```
