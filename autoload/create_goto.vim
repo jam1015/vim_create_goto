@@ -14,3 +14,4 @@ function! vim_create_goto#CreateFile(tfilename)
 	endif
 
 endfunction
+
