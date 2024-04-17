@@ -6,7 +6,7 @@ A vim vplugin that provides a function that when called, tries to create a file 
 
 
 ```vim
-nmap <leader>cf Plug>(CreateGoTo)
+nmap <leader>cf <Plug>(CreateGoTo)
 ```
 
 or in Neovim
