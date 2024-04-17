@@ -1,6 +1,6 @@
 # vim_create_goto
 
-A vim vplugin that provides a function that when called, tries to create a file at the path given as an argument, and then opens that file.
+A vim plugin that provides a function that when called, tries to create a file at the path given as an argument, and then opens that file.
 
 ## Example Mapping
 
